@@ -1,5 +1,7 @@
-# Google Analytics Spoof
+# Google Analytics Spoof (OUTDATED)
 python program to fake pageviews on google analytics with options to rotate geiod, screen resolutions, useragents, languages, and more
+
+**NOTE: Works in versions of Google Analytics <= GA3. Google Analytics 4 requires an API key to send data.
 
 # **How it works**  
 the program requests a url (google-analytics.com/collect) and passes fake variables  
