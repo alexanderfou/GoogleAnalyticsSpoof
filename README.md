@@ -10,3 +10,6 @@ it can rotate geiods, referrers, resolutions, user agents, page names, languages
 [link to the google analytics protocol](https://developers.google.com/analytics/devguides/collection/protocol/v1/parameters)  
   
 *this program was designed to run on windows/windows 10 and was written in python 3.7.9*
+
+# UPDATE
+5.7.2023 Made public. First real python project (Finished 2020)
